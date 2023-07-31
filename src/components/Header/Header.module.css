@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  height: 70px;
+}
+
+.btn {
+  height: 55%;
+  width: 100px;
+  background: none;
+  border: 1px solid #fff;
+  color: inherit;
+  cursor: pointer;
+}

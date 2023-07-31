@@ -1,0 +1,33 @@
+.form {
+  width: 50vw;
+  height: 55px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.label {
+  position: relative;
+}
+
+.input {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+.btn {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translate(0, -53%);
+  width: 90px;
+  height: 45px;
+  background: #22272e;
+  border: 1px solid white;
+  color: inherit;
+  cursor: pointer;
+}
